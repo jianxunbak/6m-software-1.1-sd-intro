@@ -26,38 +26,52 @@
 - B: Wordpad
 - C: Vim
 - D: VSCode
----D
+```
+D
+```
 
 ### Q5: Extensions can be installed in the IDEs to be able to use other functionalities?
 - A: True
 - B: False
----A
+```
+A
+```
 
 ### Q6: Only the Chrome browser has a developer tool?
 - A: True
 - B: False
----A
+```
+A
+```
 
 ### Q7: Which of the following can be done to access the developer tools in Chrome?
 - A: Press F12 on the keyboard
 - B: Right-click on the browser and select “Inspect”
 - C: Press Ctrl+Shift+I on the keyboard
 - D: All of the above
----B
+```
+B
+```
 
 ### Q8: Each programming language has a unique set of keywords and a special syntax for instructions
 - A: True
 - B: False
----A
+```
+A
+```
 
 ### Q9: A ___ is used to change source code to object code?
 - A: Compiler
 - B: Interpreter
 - C: Reader
 - D: None of the above
----A
+```
+A
+```
 
 ### Q10: Each programming language has some features that are common to each other
 - A: True
 - B: False
----A
+```
+A
+```
