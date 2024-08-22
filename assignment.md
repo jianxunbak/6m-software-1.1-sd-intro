@@ -15,17 +15,22 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 3. What is the class name of the third element and the content of the css?
 ```
 class = elementThree
-content = What is the css name of this element and the css content?
+content = .elementThree {
+            padding: 10px;
+            background-color: aquamarine;
+            text-shadow: 1px 1px white;
+            border: gray solid 2px;
+            border-radius: 10px;}
 ```
 
 4. What is the css selector of the fourth element?
 ```
-class = .elementThree
+div:nth-child(6)
 ```
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Turn off the width and height of child class so that it takes on the properties of parent class
+Turn off the width of .child CSS style.
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
